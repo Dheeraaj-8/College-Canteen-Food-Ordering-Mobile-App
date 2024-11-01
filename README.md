@@ -1,2 +1,3 @@
 # College-Canteen-Food-Ordering-Mobile-App
- 
+
+A Flutter-Firebase project with which you can order food. This mobile application for canteen food ordering was developed to shorten waiting times and to encourage e-payment to eliminate the use of cash. The current technique of ordering meals is to stand in line to pay for a token for the item we want. It is a time-consuming and exhausting procedure. The user is given an application in which they are presented with a list of all food products available in the canteen at that time, from which they may choose the food they prefer. Once the order is verified, the order information is posted on the order history listing page, along with a button that the waiter must press after delivering the dish.
